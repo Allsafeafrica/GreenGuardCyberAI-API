@@ -1,0 +1,6 @@
+id,title,category,summary,tags,source_url,date
+1,AI Threat Detection using ESG Logs,AI-Cybersecurity,"Uses AI to detect ESG-related cyber threats in enterprise logs.","AI,ESG,Cybersecurity,Detection","https://allsafeafrica.com/insights/esg-ai-detection",2025-07-21
+2,Green IT Governance Risks,ESG,"Examines data protection risks in green data centers.","ESG,Governance,IT Risk","https://allsafeafrica.com/insights/green-it-risks",2025-07-15
+3,Smart Grid AI Vulnerability,Cybersecurity,"How AI in smart grids can be exploited by cyber attackers.","Smart Grid,Cybersecurity,Vulnerability","https://allsafeafrica.com/insights/smart-grid-vuln",2025-06-30
+4,Responsible AI in Climate Reporting,ESG-AI,"Discusses bias in AI-driven ESG climate risk models.","Responsible AI,Bias,Climate Risk","https://allsafeafrica.com/insights/responsible-ai",2025-06-28
+5,IoT Sensor Data Breach,Cybersecurity,"Case study on ESG IoT devices leaking data from sensors.","IoT,ESG,Cyber Breach","https://allsafeafrica.com/insights/iot-breach",2025-07-12
