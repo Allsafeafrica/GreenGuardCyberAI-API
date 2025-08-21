@@ -13,7 +13,7 @@ The **GreenGuard Intel API** delivers **real-time, AI-powered ESG (Environmental
 - Trained on **African ESG datasets** to provide **context-aware insights** for businesses, investors, NGOs, and policymakers.  
 - Runs on **FastAPI + Hugging Face models**, deployed via **Vercel** for scalability.  
 
-🔗 **Live Demo:** [green-guard-cyber-ai-api.vercel.app](https://green-guard-cyber-ai-api.vercel.app)
+🔗 **Live Demo:** [GreenGuard-Intel-Base](https://huggingface.co/datasets/Allsafeafrica/GreenGuard-Intel-Base)
 
 ---
 
