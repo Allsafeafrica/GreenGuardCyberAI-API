@@ -1,6 +1,6 @@
 # 🌍 GreenGuard Cyber AI — ESG Insights API
 
-> **Announcing the GreenGuard Intel API: real-time ESG insights on-demand.**  
+> **GreenGuard Intel API: real-time ESG insights on-demand.**  
 > Built by **Allsafeafrica Cybersecurity (ASA)**  
 
 ---
