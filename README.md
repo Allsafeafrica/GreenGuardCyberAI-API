@@ -23,14 +23,4 @@ The **GreenGuard Intel API** delivers **real-time, AI-powered ESG (Environmental
 ✅ **REST API with JSON output** — easy integration with apps/tools  
 ✅ **Powered by GreenGuard AI Engine** — trained on African ESG datasets  
 ✅ **Scalable cloud deployment** — Vercel ready  
-✅ **Open for developers** — fork, extend, and integrate  
-
----
-
-## 🚀 Quick Start
-
-### 1️⃣ Clone the repo
-
-```bash
-git clone https://github.com/Allsafeafrica/GreenGuardCyberAI-API.git
-cd GreenGuardCyberAI-API
+✅ **Open for developers** — fork, extend, and integrate. 
